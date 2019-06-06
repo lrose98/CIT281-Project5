@@ -1,10 +1,22 @@
-# Project 3 Repo
+# Project 5 Repo
 
 Repo Start-State:
 
 1. README.md
 2. .gitignore
 3. gallery.html, gallery.css, gallery.js
+
+##281 Project 5 Learning Outcomes
+- Learn React Component Basics
+ - Babel Transpiler in the Browser
+ - create-react-app at the Command Line
+- Deploy NodeJS-MongoDB-React App to Cloud Hosting Service
+- Use Github Pages for a CIT 281 Portfolio
+##281 Project 4 Learning Outcomes
+- A card magic trick coded with Node.js and MongoDB
+- How to deploy an app to Heroku.com using Git
+- How to set up a MongoDB server
+- MongoDB CLI basics
 
 ## 281 Project 3 Learning Outcomes
 - How to consume access JSON content from Web API's
